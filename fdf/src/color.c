@@ -26,5 +26,3 @@ unsigned char	get_b(int trgb)
 	return (((unsigned char *)&trgb)[0]);
 }
 
-
-
